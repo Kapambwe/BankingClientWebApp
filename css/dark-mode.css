@@ -1,0 +1,253 @@
+/* Dark Mode Styles for Banking Portal */
+
+/* Dark mode is activated by adding 'dark-mode' class to the body element */
+
+body.dark-mode {
+    --rz-base-background-color: #1a1a1a;
+    --rz-base-foreground-color: #ffffff;
+    --rz-text-color: #e5e5e5;
+    --rz-text-secondary-color: #9ca3af;
+    
+    --rz-primary: #3b82f6;
+    --rz-secondary: #6b7280;
+    --rz-success: #10b981;
+    --rz-danger: #ef4444;
+    --rz-warning: #f59e0b;
+    --rz-info: #06b6d4;
+    
+    background-color: #1a1a1a;
+    color: #e5e5e5;
+}
+
+/* Card styles in dark mode */
+body.dark-mode .rz-card,
+body.dark-mode .rz-panel,
+body.dark-mode .rz-dialog {
+    background-color: #2d2d2d;
+    border-color: #404040;
+    color: #e5e5e5;
+}
+
+/* Header styles in dark mode */
+body.dark-mode .rz-header {
+    background-color: #2d2d2d;
+    border-bottom: 1px solid #404040;
+}
+
+/* Sidebar styles in dark mode */
+body.dark-mode .rz-sidebar {
+    background-color: #2d2d2d;
+    border-right: 1px solid #404040;
+}
+
+body.dark-mode .rz-panel-menu-item {
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-panel-menu-item:hover {
+    background-color: #404040;
+}
+
+body.dark-mode .rz-panel-menu-item.rz-state-active {
+    background-color: rgba(59, 130, 246, 0.2);
+    color: #3b82f6;
+}
+
+/* Form controls in dark mode */
+body.dark-mode .rz-textbox,
+body.dark-mode .rz-dropdown,
+body.dark-mode .rz-datepicker,
+body.dark-mode .rz-numeric,
+body.dark-mode input[type="text"],
+body.dark-mode input[type="number"],
+body.dark-mode input[type="email"],
+body.dark-mode input[type="password"],
+body.dark-mode textarea,
+body.dark-mode select {
+    background-color: #404040;
+    border-color: #525252;
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-textbox:focus,
+body.dark-mode .rz-dropdown:focus,
+body.dark-mode .rz-datepicker:focus,
+body.dark-mode .rz-numeric:focus,
+body.dark-mode input:focus,
+body.dark-mode textarea:focus,
+body.dark-mode select:focus {
+    border-color: #3b82f6;
+    background-color: #4a4a4a;
+}
+
+/* DataGrid in dark mode */
+body.dark-mode .rz-datatable,
+body.dark-mode .rz-grid {
+    background-color: #2d2d2d;
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-datatable-header,
+body.dark-mode .rz-grid-header {
+    background-color: #404040;
+    border-color: #525252;
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-datatable-data tr,
+body.dark-mode .rz-grid-table tbody tr {
+    border-color: #404040;
+}
+
+body.dark-mode .rz-datatable-data tr:hover,
+body.dark-mode .rz-grid-table tbody tr:hover {
+    background-color: #363636;
+}
+
+body.dark-mode .rz-datatable-data td,
+body.dark-mode .rz-grid-table tbody td {
+    border-color: #404040;
+}
+
+/* Buttons in dark mode */
+body.dark-mode .rz-button.rz-button-light {
+    background-color: #404040;
+    border-color: #525252;
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-button.rz-button-light:hover {
+    background-color: #4a4a4a;
+}
+
+/* Dropdown menu in dark mode */
+body.dark-mode .rz-dropdown-panel,
+body.dark-mode .rz-listbox {
+    background-color: #2d2d2d;
+    border-color: #525252;
+}
+
+body.dark-mode .rz-dropdown-item,
+body.dark-mode .rz-listbox-item {
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-dropdown-item:hover,
+body.dark-mode .rz-listbox-item:hover {
+    background-color: #404040;
+}
+
+/* Modal/Dialog in dark mode */
+body.dark-mode .rz-dialog-content {
+    background-color: #2d2d2d;
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-dialog-header {
+    background-color: #363636;
+    border-bottom-color: #525252;
+}
+
+/* Tab styles in dark mode */
+body.dark-mode .rz-tabs {
+    background-color: #2d2d2d;
+}
+
+body.dark-mode .rz-tabs-nav {
+    border-bottom-color: #525252;
+}
+
+body.dark-mode .rz-tabs-nav .rz-tabs-nav-item {
+    color: #9ca3af;
+}
+
+body.dark-mode .rz-tabs-nav .rz-tabs-nav-item:hover {
+    color: #e5e5e5;
+}
+
+body.dark-mode .rz-tabs-nav .rz-tabs-nav-item.rz-state-active {
+    color: #3b82f6;
+    border-bottom-color: #3b82f6;
+}
+
+/* Badge styles in dark mode */
+body.dark-mode .rz-badge.rz-badge-light {
+    background-color: #404040;
+    color: #e5e5e5;
+}
+
+/* Custom scrollbar in dark mode */
+body.dark-mode ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+body.dark-mode ::-webkit-scrollbar-track {
+    background: #2d2d2d;
+}
+
+body.dark-mode ::-webkit-scrollbar-thumb {
+    background: #525252;
+    border-radius: 4px;
+}
+
+body.dark-mode ::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+}
+
+/* Notification in dark mode */
+body.dark-mode .rz-notification {
+    background-color: #2d2d2d;
+    border-color: #525252;
+    color: #e5e5e5;
+}
+
+/* Chart tooltips in dark mode */
+body.dark-mode .rz-tooltip {
+    background-color: #2d2d2d;
+    border-color: #525252;
+    color: #e5e5e5;
+}
+
+/* Links in dark mode */
+body.dark-mode a {
+    color: #60a5fa;
+}
+
+body.dark-mode a:hover {
+    color: #93c5fd;
+}
+
+/* Shadow adjustments for dark mode */
+body.dark-mode .rz-shadow-1 {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5), 0 1px 2px -1px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .rz-shadow-2 {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -2px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .rz-shadow-3 {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.5);
+}
+
+/* Transition for smooth theme switching */
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.rz-card,
+.rz-panel,
+.rz-dialog,
+.rz-header,
+.rz-sidebar,
+.rz-textbox,
+.rz-dropdown,
+.rz-datepicker,
+.rz-numeric,
+input,
+textarea,
+select,
+.rz-button {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
