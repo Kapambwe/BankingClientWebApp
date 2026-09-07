@@ -1,0 +1,24 @@
+[
+  {
+    "id": "MT001",
+    "reference": "REF001",
+    "type": "Cash In",
+    "amount": 1000,
+    "currency": "ZMW",
+    "status": "Completed",
+    "description": "Cash deposit via agent",
+    "transactionDate": "2026-08-17T00:00:00Z",
+    "balanceAfter": 1000
+  },
+  {
+    "id": "MT002",
+    "reference": "REF002",
+    "type": "Bill Payment",
+    "amount": 200,
+    "currency": "ZMW",
+    "status": "Completed",
+    "description": "ZESCO bill payment",
+    "transactionDate": "2026-08-24T00:00:00Z",
+    "balanceAfter": 800
+  }
+]

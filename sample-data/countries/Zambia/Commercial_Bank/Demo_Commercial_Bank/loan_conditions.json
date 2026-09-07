@@ -1,0 +1,21 @@
+[
+  {
+    "id": "LC001",
+    "loanType": "*",
+    "conditionName": "Minimum Income",
+    "description": "Monthly income must be at least ZMW 3,000.",
+    "conditionType": "Income",
+    "minValue": 3000,
+    "isActive": true
+  },
+  {
+    "id": "LC002",
+    "loanType": "*",
+    "conditionName": "Age Requirement",
+    "description": "Applicant must be between 21 and 65 years of age.",
+    "conditionType": "Age",
+    "minValue": 21,
+    "maxValue": 65,
+    "isActive": true
+  }
+]

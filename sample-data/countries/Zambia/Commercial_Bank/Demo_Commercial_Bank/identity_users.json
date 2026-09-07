@@ -1,0 +1,72 @@
+[
+  {
+    "email": "customer@bank.com",
+    "password": "Test@123",
+    "user": {
+      "id": "CUST001",
+      "email": "customer@bank.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "+260971000001",
+      "roles": ["Customer"],
+      "isEmailVerified": true,
+      "isMFAEnabled": false
+    }
+  },
+  {
+    "email": "admin@bank.com",
+    "password": "Admin@123",
+    "user": {
+      "id": "ADMIN001",
+      "email": "admin@bank.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "phoneNumber": "+260971000002",
+      "roles": ["Admin"],
+      "isEmailVerified": true,
+      "isMFAEnabled": false
+    }
+  },
+  {
+    "email": "premium@bank.com",
+    "password": "Premium@123",
+    "user": {
+      "id": "PREM001",
+      "email": "premium@bank.com",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phoneNumber": "+260971000003",
+      "roles": ["PremiumCustomer"],
+      "isEmailVerified": true,
+      "isMFAEnabled": false
+    }
+  },
+  {
+    "email": "business@bank.com",
+    "password": "Business@123",
+    "user": {
+      "id": "BIZ001",
+      "email": "business@bank.com",
+      "firstName": "Mulenga",
+      "lastName": "Banda",
+      "phoneNumber": "+260971000004",
+      "roles": ["BusinessCustomer"],
+      "isEmailVerified": true,
+      "isMFAEnabled": false
+    }
+  },
+  {
+    "email": "savings@bank.com",
+    "password": "Test@123",
+    "user": {
+      "id": "SAV001",
+      "email": "savings@bank.com",
+      "firstName": "Chanda",
+      "lastName": "Phiri",
+      "phoneNumber": "+260971000005",
+      "roles": ["SavingsCustomer"],
+      "isEmailVerified": true,
+      "isMFAEnabled": false
+    }
+  }
+]

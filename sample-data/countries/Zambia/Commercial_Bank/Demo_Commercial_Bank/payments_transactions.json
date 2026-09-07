@@ -1,0 +1,26 @@
+[
+  {
+    "paymentId": "PAY001",
+    "customerId": "CUST001",
+    "amount": 500,
+    "currency": "ZMW",
+    "paymentMethod": "Bank Transfer",
+    "status": "Completed",
+    "transactionDate": "2026-08-22T00:00:00Z",
+    "completedDate": "2026-08-22T00:00:00Z",
+    "transactionReference": "TXN001",
+    "description": "Utility payment",
+    "recipientName": "ZESCO"
+  },
+  {
+    "paymentId": "PAY002",
+    "customerId": "CUST001",
+    "amount": 1200,
+    "currency": "ZMW",
+    "paymentMethod": "Mobile Money",
+    "status": "Pending",
+    "transactionDate": "2026-08-26T00:00:00Z",
+    "description": "Rent payment",
+    "recipientName": "Landlord"
+  }
+]

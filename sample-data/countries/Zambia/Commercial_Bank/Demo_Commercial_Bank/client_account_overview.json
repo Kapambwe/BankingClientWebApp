@@ -1,0 +1,4 @@
+[
+  { "name": "Main Business Account", "accountNumber": "****4582", "type": "Business Checking", "balance": 12543.27, "availableBalance": 12000.00, "status": "Active", "openDate": "2025-08-28T00:00:00Z" },
+  { "name": "Business Savings", "accountNumber": "****6719", "type": "Business Savings", "balance": 8765.43, "availableBalance": 8765.43, "status": "Active", "openDate": "2026-02-28T00:00:00Z" }
+]

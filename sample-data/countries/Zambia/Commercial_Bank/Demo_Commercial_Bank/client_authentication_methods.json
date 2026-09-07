@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Password" },
+  { "id": 2, "name": "PIN" },
+  { "id": 3, "name": "One-Time Password (OTP)" }
+]

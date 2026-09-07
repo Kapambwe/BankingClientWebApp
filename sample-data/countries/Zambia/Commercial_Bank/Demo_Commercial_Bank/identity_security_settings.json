@@ -1,0 +1,10 @@
+{
+  "mfaEnabled": false,
+  "remainingBackupCodes": 4,
+  "securityQuestionsConfigured": false,
+  "activeSessions": [],
+  "loginHistory": [],
+  "recoveryEmail": "recovery@example.com",
+  "recoveryPhone": "+260971000001",
+  "lastPasswordChange": "2026-05-29T00:00:00Z"
+}

@@ -1,0 +1,6 @@
+[
+  { "icon": "account_balance", "title": "Opening an Account", "description": "Learn how to open a new checking or savings account with us" },
+  { "icon": "payment", "title": "Making Payments", "description": "Send money, pay bills, and manage your payment history" },
+  { "icon": "monetization_on", "title": "Loan Applications", "description": "Apply for personal, home, or auto loans online" },
+  { "icon": "security", "title": "Account Security", "description": "Keep your account safe with our security features" }
+]

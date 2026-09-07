@@ -1,0 +1,4 @@
+[
+  { "loanNumber": "L-2022-1256", "productName": "Working Capital Loan", "amount": 20000, "startDate": "2025-02-28T00:00:00Z", "endDate": "2026-02-28T00:00:00Z", "status": "Closed" },
+  { "loanNumber": "L-2021-0897", "productName": "Equipment Financing", "amount": 35000, "startDate": "2023-02-28T00:00:00Z", "endDate": "2024-02-28T00:00:00Z", "status": "Closed" }
+]

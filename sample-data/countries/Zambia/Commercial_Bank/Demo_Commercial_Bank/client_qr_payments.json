@@ -1,0 +1,13 @@
+{
+  "Accounts": [
+    { "Name": "Checking Account", "AccountNumber": "****1234", "Balance": 5420.50 },
+    { "Name": "Savings Account", "AccountNumber": "****5678", "Balance": 12500.00 },
+    { "Name": "Business Account", "AccountNumber": "****9012", "Balance": 8750.25 }
+  ],
+  "RecentPayments": [
+    { "Date": "2026-08-28T10:00:00", "Type": "Sent", "Account": "****1234", "Amount": 45.00, "Status": "Completed", "Description": "Coffee shop" },
+    { "Date": "2026-08-28T07:00:00", "Type": "Received", "Account": "****5678", "Amount": 120.00, "Status": "Completed", "Description": "Client payment" },
+    { "Date": "2026-08-27T10:00:00", "Type": "Sent", "Account": "****1234", "Amount": 85.50, "Status": "Completed", "Description": "Restaurant bill" },
+    { "Date": "2026-08-26T10:00:00", "Type": "Received", "Account": "****9012", "Amount": 500.00, "Status": "Completed", "Description": "Invoice payment" }
+  ]
+}

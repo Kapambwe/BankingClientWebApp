@@ -1,0 +1,4 @@
+[
+  { "name": "Checking Account", "accountNumber": "****1234", "balance": 5420.50 },
+  { "name": "Savings Account", "accountNumber": "****5678", "balance": 12500.00 }
+]

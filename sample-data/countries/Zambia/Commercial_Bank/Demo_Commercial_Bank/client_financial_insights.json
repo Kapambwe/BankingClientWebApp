@@ -1,0 +1,15 @@
+{
+  "TopCategories": [
+    { "Name": "Dining", "Amount": 567.32, "Percentage": 85, "Icon": "restaurant", "Color": "#f59e0b" },
+    { "Name": "Groceries", "Amount": 423.45, "Percentage": 63, "Icon": "shopping_basket", "Color": "#10b981" },
+    { "Name": "Shopping", "Amount": 389.12, "Percentage": 58, "Icon": "shopping_cart", "Color": "#8b5cf6" },
+    { "Name": "Transportation", "Amount": 267.89, "Percentage": 40, "Icon": "directions_car", "Color": "#3b82f6" },
+    { "Name": "Utilities", "Amount": 234.56, "Percentage": 35, "Icon": "bolt", "Color": "#ef4444" }
+  ],
+  "Insights": [
+    { "Icon": "savings", "Title": "Savings Opportunity", "Description": "You're spending 25% more on dining this month. Consider meal prep to save ~$140.", "ActionText": "See Tips" },
+    { "Icon": "trending_up", "Title": "Income Growth", "Description": "Your income increased by 12% this quarter. Great job! Consider increasing your savings rate.", "ActionText": "Adjust Savings" },
+    { "Icon": "subscriptions", "Title": "Subscription Alert", "Description": "You have 3 subscriptions totaling $47/month that you haven't used in 30 days.", "ActionText": "Review Subscriptions" },
+    { "Icon": "schedule", "Title": "Bill Due Soon", "Description": "Your electricity bill of $142.88 is due in 3 days. Set up auto-pay to avoid late fees.", "ActionText": "Set Auto-Pay" }
+  ]
+}

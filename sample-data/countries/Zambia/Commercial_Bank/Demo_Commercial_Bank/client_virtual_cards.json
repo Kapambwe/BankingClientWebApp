@@ -1,0 +1,5 @@
+[
+  { "cardNumber": "4532 1234 5678 9012", "maskedNumber": "4532 **** **** 9012", "expiryDate": "12/26", "cvv": "123", "spendingLimit": 500, "spentAmount": 234.56, "status": "Active", "merchant": "Amazon", "color": "#3b82f6" },
+  { "cardNumber": "5425 2334 3010 9903", "maskedNumber": "5425 **** **** 9903", "expiryDate": "09/26", "cvv": "456", "spendingLimit": 1000, "spentAmount": 567.89, "status": "Active", "merchant": "Subscription Services", "color": "#8b5cf6" },
+  { "cardNumber": "4916 7382 1298 5432", "maskedNumber": "4916 **** **** 5432", "expiryDate": "06/26", "cvv": "789", "spendingLimit": 250, "spentAmount": 145.32, "status": "Frozen", "merchant": "General Use", "color": "#ec4899" }
+]

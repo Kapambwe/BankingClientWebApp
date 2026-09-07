@@ -1,0 +1,8 @@
+[
+  { "CampaignId": "campaign-salary", "Name": "Salary Deposit Savings Campaign", "Description": "Promote high-yield savings to salary recipients", "Status": "active", "StartDate": "2026-08-21", "EndDate": "2026-09-20", "Budget": 50000, "WorkflowId": "workflow-salary", "SentCount": 7400, "ConversionRate": 12 },
+  { "CampaignId": "campaign-loyalty", "Name": "Card Purchase Loyalty Rewards", "Description": "Reward frequent card users with cashback", "Status": "active", "StartDate": "2026-08-14", "Budget": 30000, "WorkflowId": "workflow-loyalty", "SentCount": 5280, "ConversionRate": 9 },
+  { "CampaignId": "campaign-loan", "Name": "Loan Repayment Reminder", "Description": "Send reminders 3 days before loan due date", "Status": "active", "StartDate": "2026-07-29", "WorkflowId": "workflow-loan", "SentCount": 3160, "ConversionRate": 7 },
+  { "CampaignId": "campaign-reengagement", "Name": "Inactive Account Re-engagement", "Description": "Re-engage customers with no activity in 60 days", "Status": "draft", "Budget": 15000, "SentCount": 0, "ConversionRate": 0 },
+  { "CampaignId": "campaign-balance", "Name": "Low Balance Alert Campaign", "Description": "Alert customers when balance drops below threshold", "Status": "paused", "StartDate": "2026-07-14", "WorkflowId": "workflow-balance", "SentCount": 1840, "ConversionRate": 6 },
+  { "CampaignId": "campaign-holiday", "Name": "Holiday Spending Insights", "Description": "Share spending insights during holiday season", "Status": "completed", "StartDate": "2026-05-30", "EndDate": "2026-06-29", "Budget": 20000, "SentCount": 9620, "ConversionRate": 14 }
+]

@@ -1,0 +1,33 @@
+{
+  "Budget": [
+    { "Category": "Food & Dining", "Budget": 800, "Spent": 678.90, "Icon": "restaurant", "Color": "#f59e0b", "RecentTransactions": [ { "Description": "Whole Foods Market", "Amount": 85.50, "Date": "2026-08-27", "Icon": "shopping_cart" }, { "Description": "Starbucks", "Amount": 12.75, "Date": "2026-08-26", "Icon": "local_cafe" }, { "Description": "Pizza Hut", "Amount": 35.20, "Date": "2026-08-25", "Icon": "restaurant" } ] },
+    { "Category": "Transportation", "Budget": 500, "Spent": 456.30, "Icon": "directions_car", "Color": "#3b82f6", "RecentTransactions": [ { "Description": "Shell Gas Station", "Amount": 55, "Date": "2026-08-27", "Icon": "local_gas_station" }, { "Description": "Uber Ride", "Amount": 18.50, "Date": "2026-08-24", "Icon": "local_taxi" }, { "Description": "Car Wash", "Amount": 25, "Date": "2026-08-21", "Icon": "local_car_wash" } ] },
+    { "Category": "Bills & Utilities", "Budget": 600, "Spent": 567.80, "Icon": "receipt", "Color": "#ef4444", "RecentTransactions": [ { "Description": "Electric Bill", "Amount": 125, "Date": "2026-08-23", "Icon": "flash_on" }, { "Description": "Internet Service", "Amount": 79.99, "Date": "2026-08-18", "Icon": "wifi" }, { "Description": "Water Bill", "Amount": 45, "Date": "2026-08-16", "Icon": "water_drop" } ] },
+    { "Category": "Shopping", "Budget": 400, "Spent": 485.20, "Icon": "shopping_bag", "Color": "#a855f7", "RecentTransactions": [ { "Description": "Amazon Purchase", "Amount": 156.30, "Date": "2026-08-26", "Icon": "shopping_bag" }, { "Description": "Target", "Amount": 78.90, "Date": "2026-08-22", "Icon": "store" }, { "Description": "Best Buy", "Amount": 215, "Date": "2026-08-20", "Icon": "devices" } ] },
+    { "Category": "Entertainment", "Budget": 300, "Spent": 234.50, "Icon": "movie", "Color": "#ec4899", "RecentTransactions": [ { "Description": "Netflix", "Amount": 15.99, "Date": "2026-08-27", "Icon": "movie" }, { "Description": "Concert Tickets", "Amount": 120, "Date": "2026-08-19", "Icon": "confirmation_number" }, { "Description": "Gaming", "Amount": 59.99, "Date": "2026-08-14", "Icon": "sports_esports" } ] },
+    { "Category": "Health & Fitness", "Budget": 200, "Spent": 162.97, "Icon": "favorite", "Color": "#10b981", "RecentTransactions": [ { "Description": "Gym Membership", "Amount": 45, "Date": "2026-08-27", "Icon": "fitness_center" }, { "Description": "Pharmacy", "Amount": 32.50, "Date": "2026-08-23", "Icon": "local_pharmacy" }, { "Description": "Vitamins", "Amount": 28.99, "Date": "2026-08-17", "Icon": "medication" } ] }
+  ],
+  "BudgetLineItems": [
+    { "Description": "Whole Foods Market", "Amount": 85.50, "Date": "2026-08-27", "Icon": "shopping_cart" },
+    { "Description": "Shell Gas Station", "Amount": 55, "Date": "2026-08-27", "Icon": "local_gas_station" },
+    { "Description": "Electric Bill", "Amount": 125, "Date": "2026-08-23", "Icon": "flash_on" },
+    { "Description": "Amazon Purchase", "Amount": 156.30, "Date": "2026-08-26", "Icon": "shopping_bag" }
+  ],
+  "BudgetInsights": [
+    { "Icon": "warning", "IconColor": "#ef4444", "Title": "Shopping over budget", "Message": "You've exceeded your shopping budget by $85.20 this month. Consider reducing discretionary purchases.", "ActionText": "View Suggestions" },
+    { "Icon": "trending_down", "IconColor": "#10b981", "Title": "Great progress on Entertainment", "Message": "You're spending 22% less on entertainment compared to last month. Keep it up!" },
+    { "Icon": "auto_awesome", "IconColor": "#3b82f6", "Title": "Budget optimization available", "Message": "Based on 6-month trends, you could save $150/month by adjusting category allocations.", "ActionText": "Optimize Now" },
+    { "Icon": "savings", "IconColor": "#f59e0b", "Title": "Subscription audit needed", "Message": "You have 8 active subscriptions totaling $156/month. Review for potential savings.", "ActionText": "Review Subscriptions" }
+  ],
+  "SavingsOpportunities": [
+    { "Category": "Unused Subscriptions", "Description": "Cancel 3 subscriptions you haven't used in 60+ days", "PotentialSavings": 45.99, "Confidence": 95, "Icon": "unsubscribe" },
+    { "Category": "Dining Out", "Description": "Reduce dining out by 2 meals/week by meal prepping", "PotentialSavings": 120, "Confidence": 85, "Icon": "restaurant" },
+    { "Category": "Energy Usage", "Description": "Optimize thermostat settings and reduce peak usage", "PotentialSavings": 35, "Confidence": 78, "Icon": "flash_on" },
+    { "Category": "Shopping", "Description": "Use price comparison tools and wait for sales", "PotentialSavings": 75.50, "Confidence": 70, "Icon": "shopping_cart" }
+  ],
+  "SpendingTrends": [ { "Month": "Aug", "Amount": 2100 }, { "Month": "Sep", "Amount": 2450 }, { "Month": "Oct", "Amount": 2280 }, { "Month": "Nov", "Amount": 2650 }, { "Month": "Dec", "Amount": 2890 }, { "Month": "Jan", "Amount": 2585 } ],
+  "BudgetTrends": [ { "Month": "Aug", "Amount": 2800 }, { "Month": "Sep", "Amount": 2800 }, { "Month": "Oct", "Amount": 2800 }, { "Month": "Nov", "Amount": 2800 }, { "Month": "Dec", "Amount": 2800 }, { "Month": "Jan", "Amount": 2800 } ],
+  "ForecastTrends": [ { "Month": "Aug", "Amount": 0 }, { "Month": "Sep", "Amount": 0 }, { "Month": "Oct", "Amount": 0 }, { "Month": "Nov", "Amount": 0 }, { "Month": "Dec", "Amount": 0 }, { "Month": "Jan", "Amount": 3045 } ],
+  "MonthlyComparison": [ { "Category": "Food", "CurrentMonth": 678.90, "LastMonth": 745.20 }, { "Category": "Transport", "CurrentMonth": 456.30, "LastMonth": 412.50 }, { "Category": "Bills", "CurrentMonth": 567.80, "LastMonth": 580 }, { "Category": "Shopping", "CurrentMonth": 485.20, "LastMonth": 395.80 }, { "Category": "Entertainment", "CurrentMonth": 234.50, "LastMonth": 298.75 }, { "Category": "Health", "CurrentMonth": 162.97, "LastMonth": 175.50 } ],
+  "DailySpending": [ { "Date": "2026-08-01", "Amount": 85 }, { "Date": "2026-08-02", "Amount": 120 }, { "Date": "2026-08-03", "Amount": 65 }, { "Date": "2026-08-04", "Amount": 145 }, { "Date": "2026-08-05", "Amount": 90 }, { "Date": "2026-08-06", "Amount": 210 }, { "Date": "2026-08-07", "Amount": 75 } ]
+}

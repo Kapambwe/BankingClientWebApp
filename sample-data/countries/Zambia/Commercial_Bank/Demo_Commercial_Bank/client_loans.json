@@ -1,0 +1,13 @@
+{
+  "ActiveLoans": [
+    { "Name": "Home Mortgage", "Status": "Active", "OriginalAmount": 250000, "RemainingBalance": 125000, "InterestRate": 3.75, "MonthlyPayment": 1250, "StartDate": "2020-05-01", "EndDate": "2040-05-01", "PaidPercentage": 50 },
+    { "Name": "Auto Loan", "Status": "Active", "OriginalAmount": 25000, "RemainingBalance": 8500, "InterestRate": 4.25, "MonthlyPayment": 450, "StartDate": "2022-01-01", "EndDate": "2026-01-01", "PaidPercentage": 66 }
+  ],
+  "PaymentHistory": [
+    { "LoanName": "Auto Loan", "PaymentDate": "2026-07-28", "Amount": 450, "Status": "Completed", "Method": "Auto Pay" },
+    { "LoanName": "Auto Loan", "PaymentDate": "2026-06-28", "Amount": 450, "Status": "Completed", "Method": "Auto Pay" },
+    { "LoanName": "Auto Loan", "PaymentDate": "2026-05-28", "Amount": 450, "Status": "Completed", "Method": "Auto Pay" },
+    { "LoanName": "Home Mortgage", "PaymentDate": "2026-07-28", "Amount": 1250, "Status": "Completed", "Method": "Transfer" },
+    { "LoanName": "Home Mortgage", "PaymentDate": "2026-06-28", "Amount": 1250, "Status": "Completed", "Method": "Transfer" }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  { "name": "Mobile App", "icon": "phone_iphone", "enabled": true },
+  { "name": "USSD Banking", "icon": "dialpad", "enabled": true },
+  { "name": "Web Portal", "icon": "public", "enabled": true }
+]

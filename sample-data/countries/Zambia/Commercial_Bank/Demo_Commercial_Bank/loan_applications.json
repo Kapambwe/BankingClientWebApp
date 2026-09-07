@@ -1,0 +1,27 @@
+[
+  {
+    "applicationId": "LA001",
+    "customerId": "CUST001",
+    "loanType": "Personal",
+    "requestedAmount": 50000,
+    "tenureMonths": 24,
+    "purpose": "Home renovation",
+    "interestRate": 9.5,
+    "emi": 2297.52,
+    "status": "Approved",
+    "applicationDate": "2026-07-28T00:00:00Z",
+    "approvedDate": "2026-08-02T00:00:00Z"
+  },
+  {
+    "applicationId": "LA002",
+    "customerId": "CUST001",
+    "loanType": "Vehicle",
+    "requestedAmount": 120000,
+    "tenureMonths": 36,
+    "purpose": "Car purchase",
+    "interestRate": 11.5,
+    "emi": 3969.77,
+    "status": "Pending",
+    "applicationDate": "2026-08-22T00:00:00Z"
+  }
+]

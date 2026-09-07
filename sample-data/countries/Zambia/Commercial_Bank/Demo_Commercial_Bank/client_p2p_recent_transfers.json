@@ -1,0 +1,5 @@
+[
+  { "recipientName": "John Doe", "amount": 50.00, "date": "2026-08-28T08:00:00Z", "status": "Completed" },
+  { "recipientName": "Jane Smith", "amount": 125.50, "date": "2026-08-28T06:00:00Z", "status": "Completed" },
+  { "recipientName": "Coffee Shop", "amount": 8.75, "date": "2026-08-28T03:00:00Z", "status": "Completed" }
+]

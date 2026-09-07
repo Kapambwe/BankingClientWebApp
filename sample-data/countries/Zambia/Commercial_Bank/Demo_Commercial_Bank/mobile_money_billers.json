@@ -1,0 +1,26 @@
+[
+  {
+    "code": "ZESCO",
+    "name": "ZESCO Limited",
+    "category": "Utilities",
+    "icon": "⚡"
+  },
+  {
+    "code": "LWSC",
+    "name": "Lusaka Water",
+    "category": "Utilities",
+    "icon": "💧"
+  },
+  {
+    "code": "DSTV",
+    "name": "DStv Zambia",
+    "category": "Entertainment",
+    "icon": "📺"
+  },
+  {
+    "code": "ZNBS",
+    "name": "ZNBS",
+    "category": "Finance",
+    "icon": "🏦"
+  }
+]

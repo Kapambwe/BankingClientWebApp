@@ -1,0 +1,28 @@
+[
+  {
+    "id": "demo-ao-001",
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Customer Account Opening",
+    "applicant": "Thandiwe Phiri",
+    "status": "Pending review",
+    "submittedAt": "2026-08-20T09:00:00Z",
+    "notes": "fullName=Thandiwe Phiri; email=applicant@example.com; phoneNumber=+260971234567",
+    "channel": "Customer"
+  },
+  {
+    "id": "demo-ao-002",
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Agent-Assisted Account Opening",
+    "applicant": "Mulenga Tembo",
+    "status": "In review",
+    "submittedAt": "2026-08-22T11:30:00Z",
+    "notes": "Agent verified in person.",
+    "channel": "Agent",
+    "agentId": "AGT-001",
+    "agentCode": "AGT-001"
+  }
+]

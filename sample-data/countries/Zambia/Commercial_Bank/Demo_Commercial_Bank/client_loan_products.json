@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Working Capital Loan", "interestRate": 8.5, "minAmount": 5000, "maxAmount": 100000, "termRange": "3-24 months", "requiredDocs": ["Business License", "6 Months Bank Statements", "Tax Returns"] },
+  { "id": 2, "name": "Equipment Financing", "interestRate": 6.5, "minAmount": 10000, "maxAmount": 250000, "termRange": "12-60 months", "requiredDocs": ["Business License", "Equipment Quote", "Financial Statements"] }
+]

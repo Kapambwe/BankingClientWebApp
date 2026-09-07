@@ -1,0 +1,13 @@
+[
+  {
+    "id": "W001",
+    "walletNumber": "260971000001",
+    "userId": "CUST001",
+    "phoneNumber": "+260971000001",
+    "fullName": "Test Customer",
+    "balance": 5000,
+    "currency": "ZMW",
+    "status": "Active",
+    "createdAt": "2026-06-28T00:00:00Z"
+  }
+]

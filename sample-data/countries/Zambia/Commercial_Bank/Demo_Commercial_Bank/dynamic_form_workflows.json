@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Customer Account Opening",
+    "stepOrder": 1,
+    "stepName": "Submission",
+    "approverRole": "Applicant",
+    "action": "Submit",
+    "status": "Completed",
+    "lastUpdated": "2026-08-20T09:00:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Customer Account Opening",
+    "stepOrder": 2,
+    "stepName": "KYC Review",
+    "approverRole": "Compliance Officer",
+    "action": "Review",
+    "status": "Pending",
+    "lastUpdated": "2026-08-20T09:15:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Customer Account Opening",
+    "stepOrder": 3,
+    "stepName": "Account Activation",
+    "approverRole": "Operations",
+    "action": "Activate",
+    "status": "Not Started",
+    "lastUpdated": "2026-08-20T09:30:00Z"
+  }
+]

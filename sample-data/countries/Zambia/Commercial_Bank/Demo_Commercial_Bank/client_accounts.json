@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Main Checking", "accountNumber": "****4582", "type": "Checking", "balance": 12543.27 },
+  { "id": 2, "name": "Savings Account", "accountNumber": "****6719", "type": "Savings", "balance": 8765.43 },
+  { "id": 3, "name": "Business Account", "accountNumber": "****3301", "type": "Business Checking", "balance": 32456.89 }
+]

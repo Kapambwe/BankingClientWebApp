@@ -1,0 +1,97 @@
+{
+  "overallScore": 720,
+  "scoreChangeLastMonth": 12,
+  "paymentHistoryScore": 280,
+  "creditUtilizationScore": 120,
+  "savingsRateScore": 130,
+  "debtToIncomeScore": 125,
+  "accountDiversityScore": 45,
+  "emergencyFundScore": 40,
+  "aiInsights": [
+    {
+      "insightId": "insight-1",
+      "title": "Lower high-interest debt",
+      "description": "Consolidate your credit card balances into a lower-rate personal loan to save ~$120/month.",
+      "category": "Debt",
+      "priority": "High",
+      "potentialSavings": 120,
+      "actionUrl": "/loans",
+      "generatedDate": "2026-08-26T00:00:00Z"
+    },
+    {
+      "insightId": "insight-2",
+      "title": "Boost emergency fund",
+      "description": "Automate $200/month to a high-yield savings account to achieve your 3-month buffer in 4 months.",
+      "category": "Savings",
+      "priority": "Medium",
+      "actionUrl": "/accounts",
+      "generatedDate": "2026-08-24T00:00:00Z"
+    }
+  ],
+  "scoreHistory": [
+    { "date": "2026-03-01T00:00:00Z", "score": 660 },
+    { "date": "2026-04-01T00:00:00Z", "score": 670 },
+    { "date": "2026-05-01T00:00:00Z", "score": 680 },
+    { "date": "2026-06-01T00:00:00Z", "score": 690 },
+    { "date": "2026-07-01T00:00:00Z", "score": 700 },
+    { "date": "2026-08-01T00:00:00Z", "score": 710 }
+  ],
+  "cashFlowForecast": [
+    { "month": "Nov", "projectedBalance": 2600, "income": 5200, "expenses": 2600, "confidenceLevel": 0.92 },
+    { "month": "Dec", "projectedBalance": 2850, "income": 5200, "expenses": 2350, "confidenceLevel": 0.96 },
+    { "month": "Jan", "projectedBalance": 3050, "income": 5200, "expenses": 2150, "confidenceLevel": 0.94 },
+    { "month": "Feb", "projectedBalance": 3400, "income": 5200, "expenses": 1800, "confidenceLevel": 0.9 },
+    { "month": "Mar", "projectedBalance": 3650, "income": 5200, "expenses": 1550, "confidenceLevel": 0.88 },
+    { "month": "Apr", "projectedBalance": 3900, "income": 5200, "expenses": 1300, "confidenceLevel": 0.85 }
+  ],
+  "spendingByCategory": [
+    { "category": "Savings", "amount": 780, "percentage": 0.24, "changeFromLastMonth": 0.02 },
+    { "category": "Debt", "amount": 1050, "percentage": 0.32, "changeFromLastMonth": -0.08 },
+    { "category": "Spending", "amount": 410, "percentage": 0.1, "changeFromLastMonth": 0.02 },
+    { "category": "Investment", "amount": 620, "percentage": 0.19, "changeFromLastMonth": 0.02 },
+    { "category": "Budget", "amount": 530, "percentage": 0.15, "changeFromLastMonth": 0.02 }
+  ],
+  "topRecommendations": [
+    {
+      "recommendationId": "rec-1",
+      "title": "Round up spare change",
+      "description": "Round every purchase to the nearest dollar and sweep the difference to a savings goal.",
+      "impact": 1,
+      "actionUrl": "/savings"
+    },
+    {
+      "recommendationId": "rec-2",
+      "title": "Rebalance your portfolio",
+      "description": "Shift 5% from cash into diversified ETFs to keep up with your risk target.",
+      "impact": 2,
+      "actionUrl": "/investments"
+    },
+    {
+      "recommendationId": "rec-3",
+      "title": "Enroll in autopay",
+      "description": "Set up autopay for your utilities to protect your payment history.",
+      "impact": 1,
+      "actionUrl": "/payments"
+    }
+  ],
+  "goals": [
+    {
+      "goalId": "goal-1",
+      "name": "Emergency Fund",
+      "targetAmount": 9000,
+      "currentAmount": 5200,
+      "targetDate": "2027-02-27T00:00:00Z",
+      "onTrack": true,
+      "monthlyContributionNeeded": 630
+    },
+    {
+      "goalId": "goal-2",
+      "name": "Vacation Fund",
+      "targetAmount": 4000,
+      "currentAmount": 2800,
+      "targetDate": "2027-08-27T00:00:00Z",
+      "onTrack": true,
+      "monthlyContributionNeeded": 100
+    }
+  ]
+}

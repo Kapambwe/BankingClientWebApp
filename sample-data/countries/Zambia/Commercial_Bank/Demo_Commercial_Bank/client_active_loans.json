@@ -1,0 +1,4 @@
+[
+  { "loanNumber": "L-2023-0123", "productName": "Business Line of Credit", "originalAmount": 100000, "outstandingBalance": 75000, "interestRate": 10.5, "status": "Active", "nextPaymentDate": "2026-09-09T00:00:00Z", "monthlyPayment": 2500, "totalPaid": 12500, "remainingTerm": 30, "totalInterest": 8750, "paidPercentage": 25 },
+  { "loanNumber": "L-2023-0389", "productName": "Equipment Financing", "originalAmount": 50000, "outstandingBalance": 45000, "interestRate": 6.5, "status": "Active", "nextPaymentDate": "2026-09-02T00:00:00Z", "monthlyPayment": 1200, "totalPaid": 2400, "remainingTerm": 38, "totalInterest": 1560, "paidPercentage": 10 }
+]

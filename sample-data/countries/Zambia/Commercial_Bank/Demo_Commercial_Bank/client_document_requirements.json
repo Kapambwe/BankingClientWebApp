@@ -1,0 +1,8 @@
+[
+  { "documentName": "Identity Proof", "description": "Passport, Driver's License, or National ID", "isRequired": true },
+  { "documentName": "Address Proof", "description": "Utility bill or Bank statement", "isRequired": true },
+  { "documentName": "Income Proof", "description": "Latest 3 months salary slips", "isRequired": true },
+  { "documentName": "Bank Statements", "description": "Last 6 months", "isRequired": true },
+  { "documentName": "Employment Letter", "description": "From current employer", "isRequired": false },
+  { "documentName": "Tax Returns", "description": "Last 2 years", "isRequired": false }
+]

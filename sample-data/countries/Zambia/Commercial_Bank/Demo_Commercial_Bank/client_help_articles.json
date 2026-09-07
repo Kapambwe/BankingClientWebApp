@@ -1,0 +1,7 @@
+[
+  { "icon": "account_balance_wallet", "title": "How to link external accounts", "category": "Accounts", "views": 1245, "lastUpdated": "2026-08-23T00:00:00Z" },
+  { "icon": "credit_card", "title": "Understanding your statement", "category": "Statements", "views": 987, "lastUpdated": "2026-08-21T00:00:00Z" },
+  { "icon": "swap_horiz", "title": "Setting up recurring transfers", "category": "Transfers", "views": 756, "lastUpdated": "2026-08-18T00:00:00Z" },
+  { "icon": "notifications", "title": "Managing notification preferences", "category": "Settings", "views": 654, "lastUpdated": "2026-08-16T00:00:00Z" },
+  { "icon": "smartphone", "title": "Mobile banking app guide", "category": "Mobile", "views": 1543, "lastUpdated": "2026-08-13T00:00:00Z" }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Customer Account Opening",
+    "category": "Applications",
+    "owner": "Retail banking",
+    "status": "Active",
+    "lastUpdated": "2026-08-01T00:00:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Agent-Assisted Account Opening",
+    "category": "Applications",
+    "owner": "Branch operations",
+    "status": "Active",
+    "lastUpdated": "2026-08-01T00:00:00Z"
+  },
+  {
+    "country": "Zambia",
+    "institutionType": "Commercial_Bank",
+    "institutionName": "Demo_Commercial_Bank",
+    "formName": "Account opening compliance checklist",
+    "category": "Compliance",
+    "owner": "Compliance team",
+    "status": "Draft",
+    "lastUpdated": "2026-08-15T00:00:00Z"
+  }
+]

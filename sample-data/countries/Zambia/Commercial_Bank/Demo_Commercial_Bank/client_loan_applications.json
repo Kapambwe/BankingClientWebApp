@@ -1,0 +1,5 @@
+[
+  { "applicationId": "L-2023-0456", "productName": "Working Capital Loan", "amount": 25000, "applicationDate": "2026-08-25T00:00:00Z", "status": "Under Review" },
+  { "applicationId": "L-2023-0389", "productName": "Equipment Financing", "amount": 50000, "applicationDate": "2026-08-13T00:00:00Z", "status": "Approved" },
+  { "applicationId": "L-2023-0123", "productName": "Business Line of Credit", "amount": 100000, "applicationDate": "2026-07-14T00:00:00Z", "status": "Disbursed" }
+]
